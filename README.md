@@ -69,4 +69,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any queries, please contact [segun.ajetunmobi@skiff.com](mailto:segun.ajetunmobi@skiff.com).
+For any queries, please contact [segun.ajet@protonmail.com](mailto:segun.ajet@protonmail.com).
